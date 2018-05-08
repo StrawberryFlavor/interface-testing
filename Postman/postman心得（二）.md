@@ -1,4 +1,4 @@
-# postman使用心得（二） #
+# postman使用心得（二）：postman接口测试断言 #
 
 ## 在使用postman做接口测试的时候，可以在tests中对该接口进行断言设置 ##
 ![json字符串解析断言](http://p4uuxwp7i.bkt.clouddn.com/%E6%8E%A5%E5%8F%A3%E8%BF%94%E5%9B%9E.png)
