@@ -1,3 +1,4 @@
+# postman使用心得（一）：postman基础理论 #
 ## 在使用postman中 form-data、x-www-form-urlencoded、raw、binary的区别 ##
 ### from-data ###
 为http请求中的multipart/form-data，它会将表单的数据处理为一条消息，以标签为单元，用分隔符分开。既可以上传键值对，也可以上传文件。当上传的字段是文件时，会有Content-Type来表名文件类型；content-disposition，用来说明字段的一些信息
